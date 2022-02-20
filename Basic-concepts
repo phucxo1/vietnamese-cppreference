@@ -1,0 +1,3 @@
+This section provides definitions for the specific terminology and the concepts used when describing the C   programming language.
+Phần này cung cấp định nghĩa về các thuật ngữ cụ thể và những khái niệm được sử dụng khi mô tả ngôn ngữ lập trình C++.
+Chương trình C ++ là một chuỗi các tệp văn bản (thường là tệp header và source code) có chứa các khai báo. Chúng trải qua quá trình dịch để trở thành một chương trình thực thi, chương trình này được thực thi khi C ++ implementation đến hàm main.
